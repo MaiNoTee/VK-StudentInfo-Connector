@@ -15,8 +15,8 @@ import java.util.List;
 
 public class VK_API {
 
-    private static final String TOKEN = "96b0530deaf5a2eb79011a595c00fea024cb5faa0fbab62bb4ac4625c69d8f25410497c0c69ba7a378b3b";
-    private static final int APP_ID = 8001605;
+    private static final String TOKEN = ""; // Insert your value
+    private static final int APP_ID = 0; // Insert your value
     private final VkApiClient vk;
     private final UserActor actor;
 
